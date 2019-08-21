@@ -2,7 +2,7 @@
 
 # 豆瓣影音
 
-> 使用Vue全家桶+Node.js搭建的小型全栈项目.
+> 妈的，今晚又不能发奖金了！.
 
 * 前端框架：vue-cli、vue-router、axios、vuex
 * UI类库：Mint-UI、Vant
