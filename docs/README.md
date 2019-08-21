@@ -1,16 +1,8 @@
-#  使用Vue全家桶+Node.js搭建的小型全栈项目
+#  参考文档大全
 
 
 
-## 前言
-
-接触vue框架也有一个多月的时间了，整理下之前做过的一个小demo，主要是熟悉vue全家桶技术，界面布局模仿的是猫眼，数据使用的是豆瓣开发者提供的后台接口。整个过程从搭建脚手架到最后项目打包上线，是一个完整的开发流程，中间涉及到的知识点比较多，也比较零碎，通过这个项目对我自己的知识体系做一个梳理和总结。
-
-项目已上传github，欢迎大家下载交流。
-
-前端项目地址：https://github.com/Hanxueqing/Douban-Movie
-
-后台数据地址：https://github.com/Hanxueqing/Douban-API
+hutool            https://www.hutool.cn/docs/
 
 
 
